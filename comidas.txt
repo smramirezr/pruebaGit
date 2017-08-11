@@ -3,4 +3,5 @@ Lista de comidas favoritas
 []carne asada
 [x]tacos
 []mojarra frita
+[]frijoles
 
