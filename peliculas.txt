@@ -3,4 +3,5 @@ Lista de mis peliculas favoritas
 [x]transformers
 ]game of trhones
 [x]scorpion
-[dfadfiik
+[x]ghost
+[]el señor de los anillos

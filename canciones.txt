@@ -2,3 +2,6 @@ lista de canciones
 [x]razy
 []november rain
 [x]ich will
+[]cryp
+[]vestido de cristal
+
