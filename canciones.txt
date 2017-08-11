@@ -1,4 +1,4 @@
 lista de canciones
-[]crazy
+[x]razy
 []november rain
-[]ich will
+[x]ich will
