@@ -1,6 +1,6 @@
 Lista de mis peliculas favoritas
-[]titanic
-[]transformers
+[x]titanic
+[x]transformers
 []game of trhones
-[]scorpion
-[]dfadfk
+[x]scorpion
+[]dfadfiik
